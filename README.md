@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦊 I’m currently a student at Fatec Ourinhos<br>I’m currently learning Go, Docker, Postgres and more deep O.S concepts<br>Ask me about GoLang including things such as the language memory layout
+I’m currently a student at Fatec Ourinhos<br>I’m currently learning Go, Docker, Postgres and more deep O.S concepts<br>Ask me about GoLang including things such as the language memory layout
 
 
 ## 🌐 Socials:
