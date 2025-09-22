@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from Brazil<br><br>- 🔭 I’m currently looking for a DevOps/SRE job<br>- 📚 I'm currently learning how to use Kafka<br>- ⚡ I'm very versatile, being capable of doing both back-end and front-end stuff</p>
+<p align="left">I'm from Brazil<br><br>- 🔭 I’m currently looking for a DevOps/SRE or Full-stack job<br>- 📚 I'm currently learning how to use Kafka<br>- ⚡ I'm very versatile, being capable of doing both back-end and front-end stuff</p>
 
 ###
 
